@@ -7,7 +7,8 @@ database is the major data source used by manufacturing to manage jobs, subjobs,
 shipments, and invoices. The lead file and financial summaries are secondary data
 sources, both in spreadsheet format. The lead file and financial summary are prepared
 from other data sources used by the marketing and accounting departments.
-you can see some details about data sources by opening  details pdf . 
+you can see some details about data sources by opening  details pdf.
+
 ![data_sources.png](data_sources.png)
 <h4><center> Figure 1:Data Sources for the ABC Data Warehouse </center></h4>
 
