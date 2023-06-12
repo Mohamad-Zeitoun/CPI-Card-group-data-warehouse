@@ -47,5 +47,3 @@ time as compared to shipment promised dates and first shipping dates?
 * Python >=3.7.
 * Postgres 14.x & pgadmin4.
 * streamlit .
-# Details 
-you can find some details 
